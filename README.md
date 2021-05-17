@@ -1,5 +1,5 @@
 # IR-Crack-detection
-Crack Detection Based on Infrared thermography (IR)
+Crack Detection Based on Infrared thermography (IR) - PyTorch
 
 ## 1. Paper
 
