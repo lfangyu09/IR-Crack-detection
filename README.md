@@ -20,7 +20,7 @@ Crack Detection Based on Infrared thermography (IR) - PyTorch
 | Total |
 
 
-The link of the dataset: Googl Drive; Baidu Yun; WeiYun
+The link of the dataset: Googl Drive; Baidu Yun
 
 
 ## 3. Code
