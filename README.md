@@ -30,7 +30,7 @@ Example images:
 
 
 ## References
-If you take use of our datasets or code, please cite our papers:
+If you take use of our datasets, please cite our papers:
 
 
 
