@@ -25,7 +25,7 @@ The link of the dataset: Googl Drive; Baidu Yun
 
 Example images
 ![图4](https://user-images.githubusercontent.com/62622741/150647460-712ed41b-8193-46b9-8fe3-a332facf8541.jpg)
-
+<img width="150" height="300" src="https://user-images.githubusercontent.com/62622741/150647460-712ed41b-8193-46b9-8fe3-a332facf8541.jpg"/>
 
 
 ## References
