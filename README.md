@@ -23,7 +23,8 @@ Crack Detection Based on Infrared thermography (IRT) - PyTorch
 The link of the dataset: Googl Drive; Baidu Yun
 
 
-Example images
+Example images: 
+(a) Single crack, (b) multi cracks, (c) thin crack, (d) thick crack, (e) clean background, (f) rough background, (g) light background, and (h) dark background.
 
 <img width="651.2" height="991.2" src="https://user-images.githubusercontent.com/62622741/150647460-712ed41b-8193-46b9-8fe3-a332facf8541.jpg"/>
 
