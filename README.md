@@ -31,6 +31,15 @@ Example images:
 
 ## References
 If you take use of our datasets, please cite our papers:
-
+@article{liu2022asphalt,
+  title={Asphalt pavement crack detection based on convolutional neural network and infrared thermography},
+  author={Liu, Fangyu and Liu, Jian and Wang, Linbing},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={23},
+  number={11},
+  pages={22145--22155},
+  year={2022},
+  publisher={IEEE}
+}
 
 
