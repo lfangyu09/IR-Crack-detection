@@ -5,7 +5,7 @@ Crack Detection Based on Infrared thermography (IRT) - PyTorch
 
 ## 2. Dataset
 
-The link of the dataset: Googl Drive; Baidu Yun
+The link of the dataset: [Googl Drive](https://drive.google.com/drive/folders/1r8jHJYm63awg21wTYRYMb6z_Xu1keoHq?usp=sharing); Baidu Yun
 
 (1) This dataset is used for crack detection based on the three types of images: the visible image, infrared image, and fusion image.
 
