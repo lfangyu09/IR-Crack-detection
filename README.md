@@ -33,7 +33,7 @@ Asphalt pavement crack detection based on convolutional neural network and infra
 
 Paper: https://doi.org/10.1109/TITS.2022.3142393 
 
-Dataset: https://doi.org/10.5281/zenodo.11624965 OR https://github.com/lfangyu09/IR-Crack-detection
+Dataset: https://doi.org/10.5281/zenodo.11624965
 
 ## 2. Dataset (for crack segmentation)
 
